@@ -1,0 +1,20 @@
+REPORTE "DIAMONDS"
+casos en la base de datos: 200
+columnas: 11
+
+Cortes:
+Fair      Good     Ideal   Premium Very Good
+6        18        77        60        39
+
+Cortes prop
+Fair      Good     Ideal   Premium Very Good 
+0.030     0.090     0.385     0.300     0.195 
+R2:
+[1] 0.9217083
+[2] 0.8495461
+
+Percentil 80
+ 80%
+1.15
+
+
